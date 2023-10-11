@@ -141,7 +141,6 @@ https://user-images.githubusercontent.com/1592533/141647497-3954a1f5-138e-4305-b
 - WelcomeButtonLayer: Show the button in the welcome scene.
 - WelcomeScene: Welcome scene, the loading image.
 
----
 
 # Thanks
 - Thanks to Mr. Andreas Löw (the author of TexturePacker), for prividing the free key of TexturePacker pro.
